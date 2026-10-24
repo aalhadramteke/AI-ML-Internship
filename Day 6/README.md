@@ -14,7 +14,7 @@
 ### 2. Tasks Completed:
 
 * Successfully installed and imported `matplotlib.pyplot` and `seaborn` into the working environment.
-* Loaded the Day 5 dataset (`Churn_Modelling.csv`) containing 10,000 customer records.
+* Loaded the Day 5 dataset (`Bank-Customer-Churn-Records.csv`) containing 10,000 customer records.
 * Created a **Bar Chart** to analyze the average bank balance across different geographic regions (`Geography`).
 * Created a **Line Chart** to track the sequential trend of customer credit scores (`CreditScore`) for the first 100 entries.
 * Created a **Histogram** to visualize the distribution and spread of customer ages (`Age`).
