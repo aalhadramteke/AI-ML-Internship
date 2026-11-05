@@ -1,0 +1,42 @@
+chunk_size,question,answer,retrieval_correct,answer_correct,context_length
+100,How many days of annual leave do employees get?,Employees get 24 days of annual leave per year.,1,1,201
+100,When is a medical certificate needed?,A medical certificate is required for 6 months of sick leave.,0,0,191
+100,How many days can I work from home?,"Based on the information provided:
+
+- Red if sick leave exceeds 3 consecutive days.
+- Full-time employees get 24 days of paid annual leave per year.
+- Employees can work from home up to 2 days per week.",1,1,201
+100,What is the notice period?,The notice period for resigning from work is 60 days.,1,1,201
+100,What tool is used for expenses?,The expense management tool used for expenses is called ExpenseHub.,1,1,191
+100,How much does the Pro plan cost?,The Pro plan costs $99 per month and supports up to 25 users.,1,1,201
+100,What is the API rate limit?,The API rate limit for Acme Insight of d is 25 requests per minute.,1,0,201
+100,What is the uptime SLA?,The uptime SLA for Pro and Enterprise plans is 99.9% availability.,1,1,142
+250,How many days of annual leave do employees get?,Employees get 24 days of annual leave per year.,1,1,491
+250,When is a medical certificate needed?,A medical certificate is required when sick leave exceeds 3 consecutive days.,1,1,491
+250,How many days can I work from home?,"Based on the information provided:
+
+- Employees can work from home up to 2 days per week.
+- Manager approval is needed for this flexibility.
+- The notice period for resignation is 60 days.
+- There's no mention of an additional 6-month probation period or any other specific leave requirements",1,1,491
+250,What is the notice period?,The notice period for resignation is 60 days.,1,1,491
+250,What tool is used for expenses?,The expenseHub tool is used for submitting expenses.,1,1,491
+250,How much does the Pro plan cost?,The Pro plan costs $99 per month.,1,1,442
+250,What is the API rate limit?,The public API has a rate limit of 100 requests per minute.,1,1,442
+250,What is the uptime SLA?,The uptime SLA offered by Acme Insight is 99.9 percent on Pro and Enterprise plans.,1,1,432
+500,How many days of annual leave do employees get?,Employees get 24 days of annual leave per year.,1,1,932
+500,When is a medical certificate needed?,A medical certificate is required if sick leave exceeds three consecutive days.,1,0,932
+500,How many days can I work from home?,"According to the information provided, employees can work from home up to 2 days per week with manager approval.",1,1,932
+500,What is the notice period?,The notice period for resignation is 60 days.,1,1,932
+500,What tool is used for expenses?,The expense tool used is ExpenseHub.,1,1,932
+500,How much does the Pro plan cost?,The Pro plan costs $99 per month.,1,1,932
+500,What is the API rate limit?,The public API has a rate limit of 100 requests per minute.,1,1,932
+500,What is the uptime SLA?,The Uptime SLA offered by Acme Insight is 99.9% on both the Pro and Enterprise plans.,1,1,932
+1000,How many days of annual leave do employees get?,Employees get 24 days of annual leave per year.,1,1,932
+1000,When is a medical certificate needed?,A medical certificate is required if sick leave exceeds three consecutive days.,1,0,932
+1000,How many days can I work from home?,"According to the information provided, employees can work from home up to 2 days per week with manager approval.",1,1,932
+1000,What is the notice period?,The notice period for resignations is 60 days.,1,1,932
+1000,What tool is used for expenses?,The expense management tool is called ExpenseHub.,1,1,932
+1000,How much does the Pro plan cost?,The Pro plan costs $99 per month.,1,1,932
+1000,What is the API rate limit?,The public API has a rate limit of 100 requests per minute.,1,1,932
+1000,What is the uptime SLA?,"The public API has a rate limit of 100 requests per minute, which means it cannot handle all requests at once due to its limited capacity.",1,0,932

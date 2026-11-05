@@ -1,0 +1,5 @@
+chunk_size,retrieval_correct,answer_correct,context_length
+100,0.88,0.75,191.12
+250,1.0,1.0,471.38
+500,1.0,0.88,932.0
+1000,1.0,0.75,932.0
