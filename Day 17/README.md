@@ -13,7 +13,7 @@ This is a complete end-to-end Retrieval-Augmented Generation (RAG) API built wit
 
 1. **Navigate to the folder**:
    ```bash
-   cd Day17
+   cd Day 17
    ```
 2. **Create a virtual environment**:
    ```bash
