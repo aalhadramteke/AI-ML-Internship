@@ -1,4 +1,4 @@
-# Production-Ready RAG API
+# Production Ready RAG API
 
 This is a complete end-to-end Retrieval-Augmented Generation (RAG) API built with FastAPI, Sentence-Transformers, and ChromaDB.
 
