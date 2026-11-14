@@ -1,9 +1,0 @@
-order_id,date,customer,category,amount,rating
-1,2026-10-01,Asha,Books,250,4
-2,2026-10-02,Ravi,Books,300,5
-3,2026-10-03,Asha,Games,1200,3
-4,2026-10-04,Meera,Games,1100,
-5,2026-10-05,Ravi,Books,280,4
-6,2026-10-06,Meera,Tech,45000,5
-7,2026-10-07,Asha,Tech,900,2
-7,2026-10-07,Asha,Tech,900,2
