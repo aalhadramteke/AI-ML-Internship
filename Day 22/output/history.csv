@@ -1,0 +1,5 @@
+﻿timestamp,query,status,model,source_mode,num_sources,findings_score,draft_score,folder
+2026-11-17T20:20:59,Write an elaborated paragraph about Aalhad based on the documents,ok_with_caveats,qwen2.5:3b,local,4,5.0,8.0,output\20261117_202059_write-an-elaborated-paragraph-about-aalhad-based-o
+2026-11-17T20:24:12,who is Aalhad,ok_with_caveats,qwen2.5:3b,local,4,6.0,8.0,output\20261117_202412_who-is-aalhad
+2026-11-17T20:42:47,What do you know about Aalhad?,ok_with_caveats,qwen2.5:3b,local,4,5.0,8.0,output\20261117_204247_what-do-you-know-about-aalhad
+2026-11-17T20:56:01,Write an elaborated paragraph about Aalhad based on the documents,ok_with_caveats,qwen2.5:3b,local,4,5.0,5.0,output\20261117_205601_write-an-elaborated-paragraph-about-aalhad-based-o

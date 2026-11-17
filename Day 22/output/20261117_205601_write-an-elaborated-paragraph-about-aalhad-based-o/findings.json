@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "sub_question": "What is Aalhad?",
+      "claim": "Aalhad is a curious and thoughtful person who enjoys exploring new ideas and learning how things work.",
+      "source_ids": [
+        1,
+        4
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "themes": [
+    "About Aalhad"
+  ],
+  "contradictions": [],
+  "gaps": [
+    "Origins of Aalhad",
+    "Cultural significance of Aalhad",
+    "Geographical locations associated with Aalhad",
+    "Historical events related to Aalhad"
+  ]
+}

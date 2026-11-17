@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-11-17T20:24:12",
+  "query": "who is Aalhad",
+  "status": "ok_with_caveats",
+  "backend": "ollama",
+  "model": "qwen2.5:3b",
+  "source_mode": "local",
+  "num_sources": 4,
+  "analysis_iters": 3,
+  "writer_iters": 1,
+  "findings_score": 6.0,
+  "draft_score": 8.0,
+  "plan": {
+    "sub_questions": [
+      "Who is Aalhad?",
+      "What is the origin of Aalhad?",
+      "What role does Aalhad play in the story?"
+    ],
+    "scope": "Literature"
+  }
+}

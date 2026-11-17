@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-11-17T20:20:59",
+  "query": "Write an elaborated paragraph about Aalhad based on the documents",
+  "status": "ok_with_caveats",
+  "backend": "ollama",
+  "model": "qwen2.5:3b",
+  "source_mode": "local",
+  "num_sources": 4,
+  "analysis_iters": 3,
+  "writer_iters": 1,
+  "findings_score": 5.0,
+  "draft_score": 8.0,
+  "plan": {
+    "sub_questions": [
+      "What is Aalhad?",
+      "What are the origins of Aalhad?",
+      "What are the key features of Aalhad?",
+      "How does Aalhad function?",
+      "What are the applications of Aalhad?"
+    ],
+    "scope": "Aalhad"
+  }
+}
