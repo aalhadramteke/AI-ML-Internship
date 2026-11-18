@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-11-18T12:35:44",
+  "query": "What does each agent do in a multi-agent research assistant?",
+  "status": "ok_with_caveats",
+  "backend": "ollama",
+  "model": "qwen2.5:3b",
+  "source_mode": "local",
+  "num_sources": 3,
+  "analysis_iters": 3,
+  "writer_iters": 2,
+  "findings_score": 5.0,
+  "draft_score": 4.0,
+  "plan": {
+    "sub_questions": [
+      "What are the roles of different agents in a multi-agent system?",
+      "How do agents communicate within a multi-agent system?",
+      "What are the decision-making processes of individual agents?",
+      "How do agents collaborate to achieve a common goal?",
+      "What are the challenges in designing and implementing multi-agent systems?"
+    ],
+    "scope": "multi-agent research assistant"
+  }
+}

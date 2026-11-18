@@ -1,0 +1,9 @@
+Running AI Models on Your Own Computer
+
+Ollama is a free tool that runs AI models on your own computer. It uses the graphics card (GPU) automatically when one is available.
+
+A small model with 3 billion parameters needs about 2 GB of memory in 4-bit form, so it runs well on a 6 GB graphics card. Larger models need more memory.
+
+Running a model locally keeps your data private and has no usage fees. The downside is that small models are less accurate and slower than large cloud models.
+
+Sentence-transformers is a Python library that turns text into numbers called embeddings. A program can then search documents by meaning instead of exact words.
