@@ -63,11 +63,4 @@ This report documents the engineering improvements completed to transition the *
 3. **External Monitoring & Alerting:** Connect `/health` and `5xx` log spikes to an uptime monitor (e.g., Uptime Kuma, Prometheus/Alertmanager, or cloud health checks) with an assigned on-call owner.
 4. **CI/CD Automation:** Add a GitHub Actions workflow to run `pytest` and `docker compose build` automatically on every pull request.
 
----
 
-## 5. Sign-Off
-
-| Role | Deliverable / Check | Status | Date |
-| :--- | :--- | :--- | :--- |
-| Intern / Developer | Tests, Logging, `.env`, Docker, `README.md`, Report | Complete | 2026-11-19 |
-| Tech Lead / Reviewer | Security & Production `.env` Audit | Pending Review | |
