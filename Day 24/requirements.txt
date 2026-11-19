@@ -1,0 +1,18 @@
+# --- API ---
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.5
+python-dotenv>=1.0
+httpx>=0.27
+
+# --- multi-agent research assistant (fully local) ---
+langgraph>=0.2
+sentence-transformers>=3.0   # local embeddings for docs/
+pypdf>=4.0                   # read PDFs in docs/
+# LLM: install Ollama from https://ollama.com (no pip package needed)
+
+# --- optional backends ---
+# ddgs>=9.0                  # RA_SOURCE=web or both
+# transformers accelerate bitsandbytes   # RA_BACKEND=hf_local
+# huggingface_hub            # RA_BACKEND=hf_api
+# anthropic                  # RA_BACKEND=anthropic

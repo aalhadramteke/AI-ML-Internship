@@ -1,0 +1,21 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file: .env
+    environment:
+      # Ollama runs on the host machine, not inside the container
+      RA_OLLAMA_HOST: http://host.docker.internal:11434
+      APP_ENV: production
+    extra_hosts:
+      - "host.docker.internal:host-gateway"   # needed on Linux; harmless on Docker Desktop
+    volumes:
+      - ./logs:/app/logs
+      - ./output:/app/output
+      - ./docs:/app/docs:ro
+      - hf_cache:/home/appuser/.cache         # embedding model is downloaded once
+    restart: unless-stopped
+
+volumes:
+  hf_cache:
