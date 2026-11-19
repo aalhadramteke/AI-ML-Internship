@@ -2,7 +2,7 @@
 
 ## Setup and method
 
-- Date: 2026-11-16
+- Date: 2026-11-19
 - FastAPI app served by one local uvicorn worker on `127.0.0.1:8000`.
 - `benchmark.py` sent 100 GET requests at concurrency 100 to each report endpoint, measuring client-side latency.
 - Report calls simulate 0.3 s of database I/O and 0.2 s of external I/O. v1 performs them sequentially; v2 overlaps them with `asyncio.gather`.
