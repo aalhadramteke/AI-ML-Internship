@@ -1,0 +1,2 @@
+﻿timestamp,query,status,model,source_mode,num_sources,findings_score,draft_score,folder
+2026-11-24T19:24:13,Can a small AI model run on a 6GB graphics card?,ok,qwen2.5:3b,local,3,10.0,8.0,output\20261124_192413_can-a-small-ai-model-run-on-a-6gb-graphics-card

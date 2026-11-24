@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "local_ai_tools.txt",
+    "url": "docs\\local_ai_tools.txt#chunk0",
+    "snippet": "Running AI Models on Your Own Computer Ollama is a free tool that runs AI models on your own computer. It uses the graphics card (GPU) automatically when one is available. A small model with 3 billion parameters needs about 2 GB of memory in 4-bit form, so it runs well on a 6 GB graphics card. Large",
+    "query": "Limitations of small AI models"
+  },
+  {
+    "id": 2,
+    "title": "ai_agents.txt",
+    "url": "docs\\ai_agents.txt#chunk0",
+    "snippet": "AI Agents and Multi-Agent Systems An AI agent is a program that uses a language model to complete a task. A multi-agent system uses several agents, and each agent has one job. In a research assistant, the research agent finds information, the analyzer picks out the key points, the critic checks the ",
+    "query": "Limitations of small AI models"
+  },
+  {
+    "id": 3,
+    "title": "company_info.txt",
+    "url": "docs\\company_info.txt#chunk0",
+    "snippet": "Sunrise Tech: Company Information (fictional example) Sunrise Tech is a small software company. Office hours are 10 AM to 6 PM, Monday to Friday. Employees can work from home two days a week. Every employee gets 18 paid leave days per year. Leave requests must be sent to the manager at least 3 days ",
+    "query": "Limitations of small AI models"
+  }
+]

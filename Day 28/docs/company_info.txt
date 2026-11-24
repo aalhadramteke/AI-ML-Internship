@@ -1,0 +1,7 @@
+Sunrise Tech: Company Information (fictional example)
+
+Sunrise Tech is a small software company. Office hours are 10 AM to 6 PM, Monday to Friday. Employees can work from home two days a week.
+
+Every employee gets 18 paid leave days per year. Leave requests must be sent to the manager at least 3 days in advance.
+
+The main product is Sunrise Notes, a note-taking app. It has two plans: Free and Pro. The Pro plan costs 499 rupees per month and includes cloud backup. Customers can email support and will get a reply within 24 hours.

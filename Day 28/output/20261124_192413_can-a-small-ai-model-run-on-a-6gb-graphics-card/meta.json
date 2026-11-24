@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-11-24T19:24:13",
+  "query": "Can a small AI model run on a 6GB graphics card?",
+  "status": "ok",
+  "backend": "ollama",
+  "model": "qwen2.5:3b",
+  "source_mode": "local",
+  "num_sources": 3,
+  "analysis_iters": 1,
+  "writer_iters": 1,
+  "findings_score": 10.0,
+  "draft_score": 8.0,
+  "plan": {
+    "sub_questions": [
+      "What are the limitations of a small AI model?",
+      "What is the capacity of a 6GB graphics card?",
+      "Can a small AI model run efficiently on a 6GB graphics card?"
+    ],
+    "scope": "AI model performance and hardware constraints"
+  }
+}
