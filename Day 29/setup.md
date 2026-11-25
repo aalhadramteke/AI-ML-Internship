@@ -12,7 +12,9 @@ How to install and run the Multi-Agent Research Assistant dashboard.
 
 From the project folder:
 
+```powershell
 Set-Location "Day 29"
+```
 
 ```powershell
 pip install -r requirements.txt

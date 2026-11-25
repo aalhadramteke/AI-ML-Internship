@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-11-25T16:41:04",
+  "query": "What are the benefits of AI code assistants?",
+  "status": "ok",
+  "backend": "ollama",
+  "model": "qwen2.5:3b",
+  "source_mode": "local",
+  "num_sources": 3,
+  "analysis_iters": 2,
+  "writer_iters": 1,
+  "findings_score": 8.0,
+  "draft_score": 8.0,
+  "plan": {
+    "sub_questions": [
+      "What are the benefits of using AI code assistants?",
+      "How do AI code assistants improve developer productivity?",
+      "What are the potential drawbacks of relying on AI code assistants?",
+      "How do AI code assistants enhance code quality and maintainability?",
+      "What are the implications of AI code assistants on job roles and responsibilities?"
+    ],
+    "scope": "benefits of AI code assistants"
+  }
+}
