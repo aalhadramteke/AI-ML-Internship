@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "sub_question": "What were the political factors that contributed to the fall of the Roman Empire?",
+      "claim": "Political factors such as the rise of barbarian tribes and the weakening of central authority contributed to the fall of the Roman Empire.",
+      "source_ids": [
+        1
+      ],
+      "confidence": 0.7
+    },
+    {
+      "sub_question": "What were the economic factors that contributed to the fall of the Roman Empire?",
+      "claim": "Economic factors like inflation, taxation, and the decline of the agrarian economy played a role in the fall of the Roman Empire.",
+      "source_ids": [
+        1
+      ],
+      "confidence": 0.7
+    },
+    {
+      "sub_question": "What were the military factors that contributed to the fall of the Roman Empire?",
+      "claim": "Military factors such as the inability to maintain a large, professional army and the constant threat from barbarian invasions were significant contributors to the fall of the Roman Empire.",
+      "source_ids": [
+        1
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "themes": [
+    "Political Factors",
+    "Economic Factors",
+    "Military Factors"
+  ],
+  "contradictions": [],
+  "gaps": []
+}

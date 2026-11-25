@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-11-25T20:17:35",
+  "query": "What caused the fall of the Roman Empire?",
+  "status": "ok_with_caveats",
+  "backend": "ollama",
+  "model": "qwen2.5:3b",
+  "source_mode": "local",
+  "num_sources": 3,
+  "analysis_iters": 3,
+  "writer_iters": 1,
+  "findings_score": 5.0,
+  "draft_score": 8.0,
+  "plan": {
+    "sub_questions": [
+      "What were the political factors that contributed to the fall of the Roman Empire?",
+      "What were the economic factors that contributed to the fall of the Roman Empire?",
+      "What were the military factors that contributed to the fall of the Roman Empire?"
+    ],
+    "scope": "history"
+  }
+}
