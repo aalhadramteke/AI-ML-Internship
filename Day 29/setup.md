@@ -10,7 +10,9 @@ How to install and run the Multi-Agent Research Assistant dashboard.
 
 ## 1. Install dependencies
 
-From the project folder (`C:\Linkific\Day 29`):
+From the project folder:
+
+Set-Location "Day 29"
 
 ```powershell
 pip install -r requirements.txt
