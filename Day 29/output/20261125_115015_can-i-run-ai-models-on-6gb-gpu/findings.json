@@ -1,0 +1,37 @@
+{
+  "findings": [
+    {
+      "sub_question": "can ai models run on 6gb gpu?",
+      "claim": "AI models with up to 3 billion parameters can run on a 6 GB GPU.",
+      "source_ids": [
+        1
+      ],
+      "confidence": 0.8
+    },
+    {
+      "sub_question": "what are the limitations of running ai models on 6gb gpu?",
+      "claim": "Running AI models locally on a 6 GB GPU can result in less accurate and slower performance compared to large cloud models.",
+      "source_ids": [
+        1
+      ],
+      "confidence": 0.8
+    },
+    {
+      "sub_question": "what types of ai models can run on 6gb gpu?",
+      "claim": "Small models with up to 3 billion parameters can run on a 6 GB GPU.",
+      "source_ids": [
+        1
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "themes": [
+    "AI Models on GPU",
+    "AI Model Types",
+    "GPU Memory Limitations"
+  ],
+  "contradictions": [],
+  "gaps": [
+    "Specific limitations of running AI models on a 6 GB GPU are not detailed in the provided sources."
+  ]
+}

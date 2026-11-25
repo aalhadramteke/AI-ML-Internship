@@ -1,0 +1,7 @@
+AI Agents and Multi-Agent Systems
+
+An AI agent is a program that uses a language model to complete a task. A multi-agent system uses several agents, and each agent has one job.
+
+In a research assistant, the research agent finds information, the analyzer picks out the key points, the critic checks the work for mistakes, and the writer prepares the final report. A coordinator manages all the agents and decides what happens next.
+
+Using many small agents makes the work easier to check and improve. The main drawbacks are that it takes more time and more model calls, and a mistake made by one agent can be passed on to the next one.

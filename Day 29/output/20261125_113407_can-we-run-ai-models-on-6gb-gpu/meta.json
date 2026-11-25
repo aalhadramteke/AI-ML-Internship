@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-11-25T11:34:07",
+  "query": "can we run ai models on 6GB GPU?",
+  "status": "no_sources",
+  "backend": "ollama",
+  "model": "qwen2.5:3b",
+  "source_mode": "local",
+  "num_sources": 0,
+  "analysis_iters": 0,
+  "writer_iters": 0,
+  "findings_score": null,
+  "draft_score": null,
+  "plan": {
+    "sub_questions": [
+      "what are the limitations of running AI models on a 6GB GPU?",
+      "what types of AI models can run on a 6GB GPU?",
+      "what are the performance impacts of running AI models on a 6GB GPU?"
+    ],
+    "scope": "AI model performance on 6GB GPU"
+  }
+}

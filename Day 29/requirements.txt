@@ -1,0 +1,14 @@
+langgraph>=0.2
+httpx>=0.27
+streamlit
+
+# --- fully local (recommended) ---
+sentence-transformers>=3.0   # local embeddings for your docs
+pypdf>=4.0                   # read PDFs in docs/
+# LLM: install Ollama from https://ollama.com (no pip package needed)
+
+# --- optional ---
+# ddgs>=9.0                  # RA_SOURCE=web or both
+# transformers accelerate bitsandbytes   # RA_BACKEND=hf_local
+# huggingface_hub            # RA_BACKEND=hf_api
+# anthropic                  # RA_BACKEND=anthropic

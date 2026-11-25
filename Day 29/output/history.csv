@@ -1,0 +1,4 @@
+﻿timestamp,query,status,model,source_mode,num_sources,findings_score,draft_score,folder
+2026-11-25T11:32:29,Can I run AI models on 6 GB GPU?,no_sources,qwen2.5:3b,local,0,,,output\20261125_113229_can-i-run-ai-models-on-6-gb-gpu
+2026-11-25T11:34:07,can we run ai models on 6GB GPU?,no_sources,qwen2.5:3b,local,0,,,output\20261125_113407_can-we-run-ai-models-on-6gb-gpu
+2026-11-25T11:50:15,can i run ai models on 6gb gpu?,ok_with_caveats,qwen2.5:3b,local,3,5.0,8.0,output\20261125_115015_can-i-run-ai-models-on-6gb-gpu
