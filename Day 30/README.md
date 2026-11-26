@@ -1,8 +1,8 @@
 # Internship Reflection Report
 
-**Aalhad M. Ramteke** · B.E. CSE (Data Science), PRMCEAM, Badnera-Amravati
-**Role:** AI/ML Project Intern, Linkific
-**Period:** October 2026 – November 2026 (Training)
+### **Aalhad M. Ramteke** · B.E. CSE (Data Science), PRMCEAM, Badnera-Amravati
+### **Role:** AI/ML Project Intern, Linkific
+### **Period:** October 2026 – November 2026 (Training)
 
 ---
 
